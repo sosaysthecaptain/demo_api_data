@@ -1,0 +1,30 @@
+{
+    "total_things": 3,
+    "things": [
+        { 
+            "id": 1, 
+            "title": "Post 1",
+            "sub_thing": {
+                "field_1": "some stuff",
+                "field_2": "more stuff"
+            }
+        },
+        { 
+            "id": 2, 
+            "title": "Post 2",
+            "sub_thing": {
+                "field_1": "some stuff 2",
+                "field_2": "more stuff 2"
+            }
+        },
+        { 
+            "id": 3, 
+            "title": "Post 3",
+            "sub_thing": {
+                "field_1": "some stuff 3",
+                "field_2": "more stuff 3"
+            }
+        }
+    ]
+}
+    
